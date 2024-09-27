@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure--qzj@h$m+vje7$d5cvk_9o2a8uf3b!p19dnb6gu88wy9-qp82u
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['185.247.185.99', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['185.247.185.99', '127.0.0.1', 'localhost', 'kirill.it-academy-kb.webtm.ru']
 
 # Application definition
 
